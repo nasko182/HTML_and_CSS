@@ -1,0 +1,14 @@
+ol{
+    background-color: lightgray;
+    display: table; 
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+}
+h3{
+    color: darkblue;
+    text-align: center;
+}
+li{
+    
+}
