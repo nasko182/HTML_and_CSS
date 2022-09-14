@@ -1,0 +1,82 @@
+nav ul li{
+    display: inline;
+    padding: 5px;
+}
+li.name{
+    padding-right: 122px;
+    padding-left: 0px;
+    color: #f9690e;;
+}
+nav{
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+}
+nav ul a{
+    color: #f9690e;;
+    text-decoration: none;
+}
+nav ul{
+    padding-left: 0px;
+}
+body{
+    background-color: #EFF0F4;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+main .section1{
+    display: block;
+    margin-top: 1rem;
+    background-image: url("picture.jpg");
+    background-size: cover;
+    padding: 8rem;
+}
+main .section1 h1{
+    color:  white;
+    width: 470px;
+    text-align: center;
+}
+main .section1 h1 span{
+    color: #f9690e;
+}
+main .section1 button{
+    background: #f9690e;
+    border: none;
+    padding: 6px;
+    margin-left: 187px;
+    margin-top: 7px;
+    color: white;
+}
+main .section1 button:hover{
+    background: lightgray;
+    color: #f9690e;
+}
+main .section2 article{
+    width: 30%;
+    background-color: #f9690e;
+    color: white;
+    display: inline-block;
+    padding-right: 20px;
+}
+.section2 article h2{
+    text-align: center;
+    font-size: 19px;
+}
+.section2 article p{
+    font-size: 13px;
+    padding-left: 13%;
+}
+footer .article1{
+    float: left;
+    font-size: 10px;
+}
+footer .article2{
+    float: right;
+}
+footer .article2 i{
+padding-right: 10px;;
+}
+footer{
+    margin-top: 1rem;
+}
